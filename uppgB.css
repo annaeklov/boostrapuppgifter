@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(226, 224, 222, 0.664);
+}
+img{
+    width: auto;
+    height: 400px;
+}
+.card-img-top-pumpkin{
+    padding: 0 15px;
+}
